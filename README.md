@@ -1,0 +1,1 @@
+A sloth is climbing a tree to get food and has to climb up branches without falling or getting hit by obstacles.
